@@ -1,0 +1,2 @@
+# FolderStructureParser
+フォルダ階層をテキストファイルに出力するpythonScript
